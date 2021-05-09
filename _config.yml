@@ -75,3 +75,4 @@ exclude:
   - README.md
   - netlify.toml
   - stackbit-build.sh
+domain: 'https://adorable-paprika-81425.netlify.app'
